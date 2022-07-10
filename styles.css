@@ -1,0 +1,25 @@
+:root {
+  --color1: aqua;
+  --color2: rgb(255, 123, 238);
+}
+
+body {
+  font-family: "Quicksand", sans-serif;
+  background-color: #111111;
+  text-align: center;
+}
+
+button {
+  background-color: var(--color2);
+  border-color: var(--color2);
+  border-style: none;
+  width: 10rem;
+  height: 3rem;
+  font-family: "Quicksand", san-serif;
+  font-size: large;
+  font-weight: bold;
+}
+
+#title {
+  color: var(--color1);
+}
