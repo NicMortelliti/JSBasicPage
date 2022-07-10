@@ -13,6 +13,8 @@ function handleClickCounter() {
 
     // Update string
     counterLabel.innerText = `Clicked ${counterNumber} times`;
+
+    setTimeout(() => (counterLabel.innerText = ""), 3000);
   });
 }
 
