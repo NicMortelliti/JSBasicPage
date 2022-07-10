@@ -54,3 +54,7 @@ button:hover {
 .horizontal-rule {
   color: var(--color2);
 }
+
+.counter-div {
+  min-height: 30px;
+}
