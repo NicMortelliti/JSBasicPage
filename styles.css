@@ -33,9 +33,15 @@ button:hover {
   color: var(--color1);
 }
 
+.card-group {
+  display: flex;
+  justify-content: center;
+}
+
 .simple-card {
   width: 15rem;
   background-color: #242424;
+  margin: 10px;
   padding-left: 10px;
   padding-right: 10px;
   border: solid;
