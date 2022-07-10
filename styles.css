@@ -18,6 +18,7 @@ button {
   border-top-style: none;
   border-bottom-width: medium;
   border-right-width: medium;
+  border-radius: 8px;
   color: aliceblue;
   width: 10rem;
   height: 3rem;
