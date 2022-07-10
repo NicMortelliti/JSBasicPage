@@ -13,9 +13,12 @@ body {
 
 button {
   background-color: var(--color3);
-  border-color: var(--color3);
+  border: 1px solid var(--color2);
+  border-left-style: none;
+  border-top-style: none;
+  border-bottom-width: medium;
+  border-right-width: medium;
   color: aliceblue;
-  border-style: none;
   width: 10rem;
   height: 3rem;
   font-family: "Quicksand", san-serif;
